@@ -1,3 +1,8 @@
+Prompt used for creating SC
+( for my ref )
+https://chatgpt.com/c/68d8449a-affc-832c-81b3-f8d05eae5023
+
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
