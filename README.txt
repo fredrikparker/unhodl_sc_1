@@ -3,7 +3,7 @@ Prompt used for creating SC
 https://chatgpt.com/c/68d8449a-affc-832c-81b3-f8d05eae5023
 
 
-REMIX DEFAULT WORKSPACE
+REMIX DEFAULT WSpace
 
 Remix default workspace is present when:
 i. Remix loads for the very first time 
